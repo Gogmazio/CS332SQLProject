@@ -40,5 +40,6 @@
 	$result->free_result();
 	$link->close();
 ?>
+
 </body>
 </html>
