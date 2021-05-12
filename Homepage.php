@@ -1,10 +1,10 @@
 <html>
 	<body>
-	<p>Test values:</p>
-	<p>Professor SSNs: 1234, 1357, 5678</p>
-	<p>Course Numbers: CPSC151, CPSC332, ENGL100, ENGL200, MATH100</p>
-	<p>Section Numbers: 1, 2 (for CPSC151 and ENGL100 only)</p>
-	<p>Professor Interface</p>
+		<p>Test values:</p>
+		<p>Professor SSNs: 1234, 1357, 5678</p>
+		<p>Course Numbers: CPSC151, CPSC332, ENGL100, ENGL200, MATH100</p>
+		<p>Section Numbers: 1, 2 (for CPSC151 and ENGL100 only)</p>
+		<p>Professor Interface</p>
 		<form action="profInterfaceA.php" method="POST">
 			<label for="SSN">SSN:</label><br>
 			<input type="text" id="SSN" name="SSN" /><br>
